@@ -1,0 +1,27 @@
+body {
+background-color: #ffc7c7;
+}
+h2{
+	color: #000000;
+	text-align: center;
+	margin-top: 0.25%;
+}
+a{
+	color: rgb(0, 0, 0);
+	text-align: center;
+}
+.header {
+	width: 50%;
+	min-height: 300px;
+	margin-left: 25%;
+	margin-top: 3%;
+	margin-right: 25%;
+	float: center;
+	background-color: hwb(13 33% 54%);
+}
+.mami {
+	text-align: center;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
