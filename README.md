@@ -1,1 +1,1 @@
-Lásko moje klikni na ❤ <a href="Stránka21.html">tuto</a> ❤ </a>
+Lásko moje klikni na ❤ <a href="Stránka.html">tuto</a> ❤ </a>
